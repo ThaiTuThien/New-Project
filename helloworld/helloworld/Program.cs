@@ -14,7 +14,10 @@ namespace helloworld
             string name = Console.ReadLine();
             
             Console.WriteLine($"hello {name}" );
-            Console.ReadKey();
+
+            Console.WriteLine("Chung ta la ae");
+            Console.WriteLine("Gao Renger");
+                  Console.ReadKey();
         }
     }
 }
